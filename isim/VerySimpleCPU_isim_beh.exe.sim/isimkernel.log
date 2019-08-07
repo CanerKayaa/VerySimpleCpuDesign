@@ -1,0 +1,29 @@
+Command line:
+   VerySimpleCPU_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49805
+
+Thu May 02 13:12:59 2019
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5174.54 Meg
+
+ Total Signals          : 16
+ Total Nets             : 94
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 32
+ Total Scalar Nets and Variables : 481
+Total Line Count : 200
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5489.11 Meg
+
+Thu May 02 13:13:39 2019
+
